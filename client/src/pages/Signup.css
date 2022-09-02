@@ -1,0 +1,19 @@
+.ui.header {
+    margin-top: 10rem !important;
+
+}
+
+.ten.wide.column {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ui.form {
+    padding: 5rem 6rem 1rem 6rem;
+}
+
+.ui.basic.button {
+    border: none;
+    outline: none;
+}
+

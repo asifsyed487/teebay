@@ -1,0 +1,14 @@
+.ui.header {
+    margin-top: 10rem !important;
+
+}
+
+.six.wide.column {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ui.form {
+    padding: 3rem 1rem 1rem 1rem;
+}
+
