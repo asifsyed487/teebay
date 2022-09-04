@@ -9,6 +9,17 @@ npm start
 
 There is a database.sql file in "/teebay". It is necessary to import it first. I have put the .env open.
 
+# Routes:
+a) "/" - login page
+b) "/signup" - registration page
+c) "/createproduct" - To create a product
+d) "/editproduct/:id" - To edit a specific product
+e) "/myproducts" - to see logged in user created products
+f) "/products" - to see everyones created products
+g) "/product/:id" - to see a specific product
+h) "/history" - to see a specific logged in user's bought, sold, lent and borrowed products
+i) I have created a not found page also if in case anyone search for the wrong directory.
+
 # PART1:
 
 For this part, I created a login form and a registration. The registration form is fully functional as mentioned in wireframe. So when the user logins, a token gets generated with the help of jwt. I have stored it in localstorage.
